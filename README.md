@@ -28,11 +28,4 @@ Follow these steps to build this project in your local system:
 * NBC Election Troll Tweets 2016
 * Fake News on Twitter 2016 viral tweets
 
-## Demo Video
-
-link
-
-## Steps to run a demo
-
-1. 
 
